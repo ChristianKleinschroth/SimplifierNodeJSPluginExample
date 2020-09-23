@@ -1,5 +1,5 @@
 # SimplifierNodeJSPluginExample
-Simplifier Plugin Example based on Nodes
+Simplifier Plugin Example based on NodeJS
 
 This Plugin represents a example for building Plugins with Simplifier Low-Code Platform 
 
