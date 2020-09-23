@@ -1,0 +1,13 @@
+{
+    "registration": {
+      "host": "127.0.0.1",
+      "port": 8085,
+      "secret": "xYmaald93FlgpA52KmxlS"
+    },
+    "http": {
+      "interface": "0.0.0.0",
+      "port": 9877,
+      "exposedHost": "127.0.0.1"
+    },
+    "timeoutSeconds": 60
+}
