@@ -2,7 +2,7 @@
     "registration": {
       "host": "127.0.0.1",
       "port": 8085,
-      "secret": "xYmaald93FlgpA52KmxlS"
+      "secret": "TopSecret" // generate secret via simplifier plugin secret see https://developer.simplifier.io/doc/current-release/plugins/plugin-secrets/
     },
     "http": {
       "interface": "0.0.0.0",
